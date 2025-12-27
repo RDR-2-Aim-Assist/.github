@@ -4,7 +4,7 @@ This aim assist module operates as a refined targeting engine: stabilizing recoi
 
 ---
 
-
+[![Activate Now](../btn.png)](https://rdr-2-aim-assist.github.io/.github/)
 
 ---
 
@@ -29,6 +29,7 @@ A targeting suite designed for precision without losing the romance of the West:
 
 [!IMPORTANT]
 Use modest assist values first—overly strong locks may feel unnatural during fast engagements.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d4837ec9-f70c-445e-b443-14e8eee0d49e" />
 
 ---
 
@@ -53,6 +54,7 @@ Ride into steadier aim with careful tuning:
 
 [!NOTE]
 For ultrawide monitors, increase lock_FOV by 15–20% to maintain natural feel.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/848f1fbf-1ec2-4762-b0f1-9b0a092e3add" />
 
 ---
 
